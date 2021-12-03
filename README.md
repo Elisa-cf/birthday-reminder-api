@@ -1,4 +1,5 @@
-# Birthday Reminder Backend 🥳🎉🎂  https://media3.giphy.com/media/g5R9dok94mrIvplmZd/giphy.gif?cid=790b76115246554058f28f6f0e229fcb46fcdc458226448a&rid=giphy.gif&ct=g
+# Birthday Reminder Backend  
+
 
 Local database made using Node.js, Express.js and SQL.
 
@@ -13,3 +14,6 @@ To install the project locally:
 - Clone the repository
 - npm install
 - npm run dev
+
+
+![giphy](https://user-images.githubusercontent.com/89517547/144588093-4bf46be6-799d-4681-94c2-63a9a3c3ecd0.gif)
