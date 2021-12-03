@@ -3,6 +3,7 @@
 Local database made using Node.js, Express.js and SQL.
 
 Github repository of the frontend application: https://github.com/Elisa-cf/birthday-reminder
+
 Live site: https://anniversary-reminder.netlify.app/ 
 
 ## Installation
